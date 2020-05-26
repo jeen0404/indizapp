@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "945655482830",
+    "firebase_url": "https://indiz-243400.firebaseio.com",
+    "project_id": "indiz-243400",
+    "storage_bucket": "indiz-243400.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:945655482830:android:c8014bb339fbdd19f6439f",
+        "android_client_info": {
+          "package_name": "com.indiz.android"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "945655482830-k3rbjpactpoentcpc3daauo1n6n8bv7p.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.indiz.android",
+            "certificate_hash": "525bb607e468d7b32e82baf8f679506ebc5bcdaa"
+          }
+        },
+        {
+          "client_id": "945655482830-0glfb9mogo61p6le017stvnul93h4hqa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5oKoGEjCAxBTM37o4mpBG3zoLjmP2sTU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "945655482830-0glfb9mogo61p6le017stvnul93h4hqa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
