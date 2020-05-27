@@ -11,14 +11,10 @@
     and Contains Feature like follow,like,comment on post and much more!
     <br>
 
-### Status
-[![Build status](https://ci.appveyor.com/api/projects/status/d8ucmegnmourohwu/branch/master?svg=true)](https://ci.appveyor.com/project/davecramer/pgjdbc/branch/master)
-[![Build Status](https://travis-ci.org/pgjdbc/pgjdbc.svg?branch=master)](https://travis-ci.org/pgjdbc/pgjdbc)
-[![codecov.io](http://codecov.io/github/pgjdbc/pgjdbc/coverage.svg?branch=master)](http://codecov.io/github/pgjdbc/pgjdbc?branch=master)
-[![Maven Central](https://maven-badges.herokuapp.com/maven-central/org.postgresql/postgresql/badge.svg)](https://maven-badges.herokuapp.com/maven-central/org.postgresql/postgresql)
-[![Javadocs](http://javadoc.io/badge/org.postgresql/postgresql.svg)](http://javadoc.io/doc/org.postgresql/postgresql)
-[![License](https://img.shields.io/badge/License-BSD--2--Clause-blue.svg)](https://opensource.org/licenses/BSD-2-Clause)
-[![Join the chat at https://gitter.im/pgjdbc/pgjdbc](https://badges.gitter.im/pgjdbc/pgjdbc.svg)](https://gitter.im/pgjdbc/pgjdbc?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
- 
+<br>
+<a href="https://github.com/jeen0404/indizapp"><img src="https://visualpharm.com/assets/707/Source%20Code-595b40b65ba036ed117d45b8.svg" width="20" height="20">App Source Code</a><\t>
+<a href="https://github.com/jeen0404/indiz-cloud-fun"><img src="https://www.seekpng.com/png/detail/788-7884007_google-cloud-functions-icon-google-cloud-dataprep-logo.png" width="20" height="20">Firebase Cloud function</a><\t>
+<a href="https://play.google.com/store/apps/details?id=xyz.indiz.flutter_app"><img src="documentation/logo.png" width="20" height="20">Play Store link</a>
+
  </p>
  </p>
