@@ -17,12 +17,11 @@
 <a href="https://play.google.com/store/apps/details?id=xyz.indiz.flutter_app"><img src="documentation/logo.png" width="15" height="15">Play Store link</a>
 
  </p>
- ### ScreenShot
- #### profile Ui
- <img src="documentation/profile.png"> <img src="documentation/profile2.png"><br>
-  #### Feed Ui
- <img src="documentation/feed1.png"> <img src="documentation/deed2.png">
-  #### Follower List
-   <img src="documentation/follower.png">
- 
+### ScreenShot
+#### profile Ui
+<div align="center"><img src="documentation/profile.png"> <img src="documentation/profile2.png"><br></div>
+#### Feed Ui
+<div align="center"><img src="documentation/feed1.png"> <img src="documentation/deed2.png"></div>
+#### Follower List
+<div align="center"><img src="documentation/follower.png"></div>
  </p>
