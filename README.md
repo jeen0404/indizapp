@@ -19,9 +19,9 @@
  </p>
 ### ScreenShot
 #### profile Ui
-<div align="center"><img src="documentation/profile.png"> <img src="documentation/profile2.png"><br></div>
+<div align="center"><img src="documentation/profile1.png"> <img src="documentation/profile2.png"><br></div>
 #### Feed Ui
-<div align="center"><img src="documentation/feed1.png"> <img src="documentation/deed2.png"></div>
+<div align="center"><img src="documentation/feed1.png"> <img src="documentation/feed2.png"> <img src="documentation/feed3.png"></div>
 #### Follower List
 <div align="center"><img src="documentation/follower.png"></div>
  </p>

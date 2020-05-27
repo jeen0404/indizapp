@@ -83,7 +83,7 @@ flutter:
     - assets/notification.png
     - assets/like.png
     - assets/icon.png
-    - assets/profile.png
+    - assets/profile1.png
     - assets/chat.png
 
   # An image asset can refer to one or more resolution-specific "variants", see
