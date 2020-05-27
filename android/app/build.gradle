@@ -45,7 +45,7 @@ android {
 
     defaultConfig {
 
-        applicationId "com.indiz.android"
+        applicationId "xyz.indiz.flutter_app"
         minSdkVersion 21
         targetSdkVersion 28
         versionCode flutterVersionCode.toInteger()
