@@ -11,14 +11,12 @@
     and Contains Feature like follow,like,comment on post and much more!
     <br>
 
-### Status
-[![Build status](https://ci.appveyor.com/api/projects/status/d8ucmegnmourohwu/branch/master?svg=true)](https://ci.appveyor.com/project/davecramer/pgjdbc/branch/master)
-[![Build Status](https://travis-ci.org/pgjdbc/pgjdbc.svg?branch=master)](https://travis-ci.org/pgjdbc/pgjdbc)
-[![codecov.io](http://codecov.io/github/pgjdbc/pgjdbc/coverage.svg?branch=master)](http://codecov.io/github/pgjdbc/pgjdbc?branch=master)
-[![Maven Central](https://maven-badges.herokuapp.com/maven-central/org.postgresql/postgresql/badge.svg)](https://maven-badges.herokuapp.com/maven-central/org.postgresql/postgresql)
-[![Javadocs](http://javadoc.io/badge/org.postgresql/postgresql.svg)](http://javadoc.io/doc/org.postgresql/postgresql)
-[![License](https://img.shields.io/badge/License-BSD--2--Clause-blue.svg)](https://opensource.org/licenses/BSD-2-Clause)
-[![Join the chat at https://gitter.im/pgjdbc/pgjdbc](https://badges.gitter.im/pgjdbc/pgjdbc.svg)](https://gitter.im/pgjdbc/pgjdbc?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
+[![Flutter](https://www.kindpng.com/picc/m/355-3557482_flutter-logo-png-transparent-png.png)](https://flutter.dev/)
+[![Firebase](https://flutter.dev/assets/flutter-lockup-c13da9c9303e26b8d5fc208d2a1fa20c1ef47eb021ecadf27046dea04c0cebf6.png)](https://firebase.google.com/)
+[![Play Store](https://cdn1.iconfinder.com/data/icons/social-links/26/playstore-512.png)](https://play.google.com/store/apps/details?id=xyz.indiz.flutter_app)
+[![App Source Code](https://visualpharm.com/assets/707/Source%20Code-595b40b65ba036ed117d45b8.svg)](https://github.com/jeen0404/indizapp)
+[![Firebase Cloud Function](https://www.seekpng.com/png/detail/788-7884007_google-cloud-functions-icon-google-cloud-dataprep-logo.png)](https://github.com/jeen0404/indiz-cloud-fun)
  
  </p>
  </p>
