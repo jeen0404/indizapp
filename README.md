@@ -12,9 +12,9 @@
     <br>
 
 <br>
-<a href="https://github.com/jeen0404/indizapp"><img src="https://visualpharm.com/assets/707/Source%20Code-595b40b65ba036ed117d45b8.svg" width="20" height="20">App Source Code</a><\t>
-<a href="https://github.com/jeen0404/indiz-cloud-fun"><img src="https://www.seekpng.com/png/detail/788-7884007_google-cloud-functions-icon-google-cloud-dataprep-logo.png" width="20" height="20">Firebase Cloud function</a><\t>
-<a href="https://play.google.com/store/apps/details?id=xyz.indiz.flutter_app"><img src="documentation/logo.png" width="20" height="20">Play Store link</a>
+<a href="https://github.com/jeen0404/indizapp"><img src="https://visualpharm.com/assets/707/Source%20Code-595b40b65ba036ed117d45b8.svg" width="10" height="10">App Source Code</a><br>
+<a href="https://github.com/jeen0404/indiz-cloud-fun"><img src="https://www.seekpng.com/png/detail/788-7884007_google-cloud-functions-icon-google-cloud-dataprep-logo.png" width="10" height="10">Firebase Cloud function</a><br>
+<a href="https://play.google.com/store/apps/details?id=xyz.indiz.flutter_app"><img src="documentation/logo.png" width="10" height="10">Play Store link</a>
 
  </p>
  </p>
