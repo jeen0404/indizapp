@@ -8,7 +8,7 @@
   <p align="center">
     photo sharing app with Flutter and Firebase
     <br>
-    Indiz project made with much  :Flutter,Firebase: . Contains Feature like follow,like,comment on post and much more!
+    and Contains Feature like follow,like,comment on post and much more!
     <br>
 
 <br>
